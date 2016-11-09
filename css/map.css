@@ -1,0 +1,27 @@
+/*
+/Matthew Shehan
+//mshehan@my.smccd.edu
+//CIS 
+//114 OL
+//map.css
+//final
+// 05-27-2016
+ */
+#map {
+            height:400px;
+            width:95%;
+}
+img {
+    vertical-align: text-top;
+    float: left;
+    margin-right: 10px;
+}
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serifcourier;
+}
+#page-header{
+    font-family:courier;
+    font-size: 2em;
+    
+}
+     
